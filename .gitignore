@@ -6,12 +6,12 @@
 
 # BlueJ files
 *.ctxt
+*.list
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.zip

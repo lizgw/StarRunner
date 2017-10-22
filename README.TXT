@@ -1,12 +1,13 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: Star Runner
-PURPOSE OF PROJECT:
-VERSION or DATE: 1.0 - May 2017
-HOW TO START THIS PROJECT:
+VERSION/DATE: 1.0 - May 2017
 AUTHORS: Liz Wigglesworth
-USER INSTRUCTIONS:
+————
+
+—— If you have Greenfoot installed —— 
+Clone/download the project, then open project.greenfoot and compile, then run.
+
+—— Without Greenfoot ——
+Download & run the StarRunner.jar file.
+NOTE: you must click the “run” button at the bottom for the game to work.
+
+This game was created as a final project in my CS1 course.
